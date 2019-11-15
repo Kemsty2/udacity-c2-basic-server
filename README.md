@@ -1,4 +1,4 @@
 # Content Moved
 
-We've moved this content to the Udacity repository test:
+We've moved this content to the Udacity repository:
 https://github.com/udacity/cloud-developer
